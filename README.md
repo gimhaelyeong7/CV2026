@@ -6,7 +6,9 @@
 
 
 
-https://github.com/user-attachments/assets/61aac36b-9106-4ef7-8844-9b58e67f6acb
+
+Uploading 스켈레톤.mp4…
+
 
 
 
