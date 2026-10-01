@@ -6,5 +6,4 @@
 Sorting](./homework/SelectionSorting.pde)
 
 
-Uploading 스켈레톤.mp4…
 
