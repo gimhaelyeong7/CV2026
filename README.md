@@ -7,7 +7,19 @@
 
 
 
-Uploading 스켈레톤.mp4…
+
+
+https://github.com/user-attachments/assets/2e721c6b-e7bc-4298-a1bc-f804df153647
+
+
+
+
+
+https://github.com/user-attachments/assets/ab0ef468-1a97-446f-ae31-c715bb18b2cf
+
+
+
+
 
 
 
