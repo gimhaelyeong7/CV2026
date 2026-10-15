@@ -11,6 +11,8 @@ https://github.com/user-attachments/assets/1520720c-ff31-4575-9637-aa8dd7527b20
 
 
 기본 값
+
+
 <img width="185" height="149" alt="기본 값" src="https://github.com/user-attachments/assets/5cd83b68-0803-4f79-a0f1-8496d3cd9bb1" />
 
 <img width="387" height="292" alt="노이즈가 높을때" src="https://github.com/user-attachments/assets/7c3645b4-cb8d-40e3-b3e0-e611c2b4c931" />
